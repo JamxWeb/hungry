@@ -1,0 +1,13 @@
+.startContent{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+.startContent h1{
+    font-size: 4.5em;
+    font-family: 'Î¢ÈíÑÅºÚ';
+    color: #0088bb;
+}
+.startContent img{
+    max-width: 100%;
+}
